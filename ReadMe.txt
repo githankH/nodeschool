@@ -1,0 +1,3 @@
+nodeschool challenge - closures
+
+sjdlfkj
